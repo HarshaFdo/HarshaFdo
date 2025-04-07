@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshafdo&label=Profile%20views&color=0e75b6&style=flat" alt="harshafdo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshafdo" alt="harshafdo" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshafdo" alt="harshafdo" /></a> </p>
 
 - 🔭 I’m currently working on something cool with Laravel & PHP(https://github.com/HarshaFdo/E-Commerce_Project.git)
 - 🌱 Constantly learning: modern backend frameworks & new languages 
