@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsha Fernando</h1>
-<h3 align="center">A passionate developer from Sri Lanka</h3>
+<h3 align="center">A passionate and enthusiastic developer who loves crafting clean, creative, and impactful code. Whether building full-stack web apps, exploring the depths of Laravel, or experimenting with new tech, I'm always ready to learn and level up.</h3>
 
 ---
 
@@ -7,7 +7,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshafdo" alt="harshafdo" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce_Project](https://github.com/HarshaFdo/E-Commerce_Project.git)
+- 🔭 I’m currently working on something cool with Laravel & PHP(https://github.com/HarshaFdo/E-Commerce_Project.git)
+- 🌱 Constantly learning: modern backend frameworks & new languages 
+- 💬 Ask me about: Laravel, NextJs, MySQL, and getting started with web dev  
+- ✨ Fun fact: I debug like a detective 🕵️‍♂️
 
 - 📫 How to reach me **fernando.harsha2016@gmail.com**
 
