@@ -1,52 +1,49 @@
-<h1 align="center">Hi 👋, I'm Harsha Fernando</h1>
-<h3 align="center">A passionate and enthusiastic developer who loves crafting clean, creative, and impactful code.</h3>
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g5Zm83MXhpdXZ6azE4aHIzcmZ1aWVjM2RrM2Z6NmlnNjkyZGxxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FoVzfcqCDSb7zCynOp/giphy.gif" height="200" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F7941D&size=30&center=true&vCenter=true&lines=Hey+there!+I'm+Harsha+Fernando;Welcome+to+my+GitHub+space!;Happy+to+see+you+here+👨‍💻✨" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%71bfde&size=30&center=true&vCenter=true&height=60&width=600&lines=Hey+there!+I'm+Harsha+Fernando;Welcome+to+my+GitHub+space!;Happy+to+see+you+here+👨‍💻✨" alt="Title"></img>
 
----
+<h1></h1>
+<h3 align="center">Dedicated Software Engineering Student | Engineering ideas into impactful tech—driven by passion, powered by innovation</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HarshaFdo&label=Profile%20Visitors&color=ff6347&style=flat" alt="Visitor Count Badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshaFdo&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HarshaFdo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 💫 About Me
+<picture>
+  <img align="right" src="https://i.pinimg.com/736x/6d/cd/36/6dcd3671b80731bfe80c5852717f7860.jpg" width="300px"/>
+</picture>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-FullStack%20Development-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-## 🧠 About Me
-<picture>
-  <img align="right" src=["https://raw.githubusercontent.com/harshkumarkhatri/harshkumarkhatri/main/code.gif](https://www.pinterest.com/pin/739786676323219754/)" width="300px"/>
-</picture>
 
 - 🔭 Working on [E-Commerce Project](https://github.com/HarshaFdo/E-Commerce_Project.git) using Laravel & PHP  
 - 🌱 Exploring: Modern backend frameworks, Machine Learning  
 - 💬 Ask me about: Laravel, Next.js, MySQL, web dev tips  
 - ✨ Fun fact: I debug like a detective 🕵️‍♂️  
-- 📧 Reach me: **fernando.harsha2016@gmail.com**
-
----
+- 📧 How to reach me: Using Connect with me
+  
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/harshafdo/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   <a href="https://fb.com/YOUR-LINK"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
   <a href="https://instagram.com/YOUR-LINK"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
-
----
 
 ## 🛠️ Top Skills & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,mysql,js,ts,nodejs,react,python,c,tailwind,figma,git,linux,vscode" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -55,14 +52,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshaFdo&theme=radical&hide_border=true" />
 </p>
 
----
-
 ## ⚡ Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshaFdo&bg_color=000000&color=ff6347&line=63f7f7&point=ffffff&area=true&hide_border=true" />
 </div>
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
