@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g5Zm83MXhpdXZ6azE4aHIzcmZ1aWVjM2RrM2Z6NmlnNjkyZGxxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FoVzfcqCDSb7zCynOp/giphy.gif" height="200" />
+  <img src="https://media.giphy.com/media/Ruk8jOQDYBXyHhQ6iU/giphy.gif?cid=790b76111b5vir6oyq3fkbavxz6hzj9dwvvtn94ngh96y6yu&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="200" />
 </p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%71bfde&size=30&center=true&vCenter=true&height=60&width=600&lines=Hey+there!+I'm+Harsha+Fernando;Welcome+to+my+GitHub+space!;Happy+to+see+you+here+👨‍💻✨" alt="Title"></img>
+</div>
 
 <h1></h1>
 <h3 align="center">Dedicated Software Engineering Student | Engineering ideas into impactful tech—driven by passion, powered by innovation</h3>
@@ -13,11 +14,11 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HarshaFdo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=HarshaFdo&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ## 💫 About Me
 <picture>
-  <img align="right" src="https://i.pinimg.com/736x/6d/cd/36/6dcd3671b80731bfe80c5852717f7860.jpg" width="300px"/>
+  <img align="right" src="https://i.pinimg.com/736x/6d/cd/36/6dcd3671b80731bfe80c5852717f7860.jpg" width="200px"/>
 </picture>
 
 <p align="left">
@@ -25,24 +26,23 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-
 - 🔭 Working on [E-Commerce Project](https://github.com/HarshaFdo/E-Commerce_Project.git) using Laravel & PHP  
-- 🌱 Exploring: Modern backend frameworks, Machine Learning  
-- 💬 Ask me about: Laravel, Next.js, MySQL, web dev tips  
+- 🌱 Exploring: Modern backend frameworks, Machine Learning   
 - ✨ Fun fact: I debug like a detective 🕵️‍♂️  
-- 📧 How to reach me: Using Connect with me
-  
+- 📧 How to reach me: Use connect links below
+<br><br>
 
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/harshafdo/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://fb.com/YOUR-LINK"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/YOUR-LINK"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+  <a href="mailto:fernando.harsha2016@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg?color=ffffff" height="30" width="40" title="Gmail" /></a>
+  <a href="https://fb.com/harsha.fernando.520900"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+  <a href="https://instagram.com/harsha_fernando__"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Top Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,mysql,js,ts,nodejs,react,python,c,tailwind,figma,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,javascript,python,php,nextjs,ts,nodejs,react,django,laravel,bootstrap,html,css,tailwind,mysql,sqlite,figma,git,linux,vscode" />
 </p>
 
 ## 📊 GitHub Stats
