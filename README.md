@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=30&center=true&vCenter=true&lines=Hey+there!+I'm+Harsha+Fernando;Welcome+to+my+GitHub+space!;Happy+to+see+you+here+👨‍💻✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23F97316&size=30&center=true&vCenter=true&lines=Hey+there!+I'm+Harsha+Fernando;Welcome+to+my+GitHub+space!;Happy+to+see+you+here+👨‍💻✨" />
 </div>
 
 ---
@@ -20,7 +20,7 @@
 - 🌱 Exploring: Modern backend frameworks, Machine Learning  
 - 💬 Ask me about: Laravel, Next.js, MySQL, web dev tips  
 - ✨ Fun fact: I debug like a detective 🕵️‍♂️  
-- 📫 Reach me: **fernando.harsha2016@gmail.com**
+- 📧 Reach me: **fernando.harsha2016@gmail.com**
 
 ---
 
@@ -42,16 +42,16 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshaFdo&show_icons=true&theme=algolia" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaFdo&layout=compact&theme=algolia" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshaFdo&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshaFdo&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaFdo&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshaFdo&theme=tokyonight" />
 </p>
 
 ---
 
 ## ⚡ Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshaFdo&bg_color=0d1117&color=38c2ff&line=c792ea&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshaFdo&bg_color=1a1b27&color=ff6347&line=63f7f7&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
