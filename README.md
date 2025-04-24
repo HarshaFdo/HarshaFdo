@@ -29,7 +29,7 @@
 - 🔭 Working on [E-Commerce Project](https://github.com/HarshaFdo/E-Commerce_Project.git) using Laravel & PHP  
 - 🌱 Exploring: Modern backend frameworks, Machine Learning   
 - ✨ Fun fact: I debug like a detective 🕵️‍♂️  
-- 📧 How to reach me: Use connect links below
+- 📧 How to reach me: Use the connect links below
 <br><br>
 
 ## 🌐 Connect with Me
@@ -42,7 +42,7 @@
 
 ## 🛠️ Top Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,python,php,ts,c,nextjs,nodejs,react,django,laravel,bootstrap,html,css,tailwind,mysql,sqlite,figma,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,php,ts,c,nextjs,nodejs,react,django,laravel,bootstrap,html,css,tailwind,mysql,sqlite,postgresql,figma,git,linux,vscode" />
 </p>
 
 ## 📊 GitHub Stats
