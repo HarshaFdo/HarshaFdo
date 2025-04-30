@@ -42,7 +42,7 @@
 
 ## 🛠️ Top Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,python,php,ts,c,nextjs,nodejs,react,django,laravel,bootstrap,html,css,tailwind,mysql,sqlite,postgresql,figma,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,php,ts,c,nextjs,nodejs,react,django,laravel,bootstrap,html,css,tailwind,mysql,sqlite,PostgreSQL,firebase,figma,git,linux,vscode" />
 </p>
 
 ## 📊 GitHub Stats
