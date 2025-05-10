@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-- 🔭 Working on [E-Commerce Project](https://github.com/HarshaFdo/E-Commerce_Project.git) using Laravel & PHP  
+- 🔭 Working on [Uvindu-Food-Ordeing-System](https://github.com/HarshaFdo/Uvindu-Food-Ordering-System.git) using Laravel & PHP  
 - 🌱 Exploring: Modern backend frameworks, Machine Learning   
 - ✨ Fun fact: I debug like a detective 🕵️‍♂️  
 - 📧 How to reach me: Use the connect links below
