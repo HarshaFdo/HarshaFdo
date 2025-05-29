@@ -7,7 +7,7 @@
 </div>
 
 <h1></h1>
-<h3 align="center">Dedicated Software Engineering Student | Engineering ideas into impactful tech—driven by passion, powered by innovation</h3>
+<h3 align="center">Dedicated Software Engineering Student | Engineering ideas into impactful tech-driven by passion, powered by innovation</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HarshaFdo&label=Profile%20Visitors&color=ff6347&style=flat" alt="Visitor Count Badge" />
